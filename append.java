@@ -7,6 +7,9 @@ public class append {
         StringBuilder sb = new StringBuilder("Satyajit");
         sb.append(" Basak.");
 
+        // String name = "Satyajit";
+        // System.out.println(name);
+
         System.out.println(sb);
         System.out.print(sb.length());
     }
