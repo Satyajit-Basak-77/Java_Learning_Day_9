@@ -9,5 +9,6 @@ public class reverse_string {
             reverse_name = reverse_name + name.charAt(i);
         }
         System.out.println(reverse_name);
+        sc.close();
     }
 }

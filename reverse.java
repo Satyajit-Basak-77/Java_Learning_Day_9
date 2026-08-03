@@ -1,7 +1,6 @@
 /*Reverse a String (using StringBuilder class)*/
 
 package Java_Learning_Day_9;
-import java.util.*;
 public class reverse {
     public static void main( String args[] ){
         StringBuilder sb = new StringBuilder("HelloWorld");

@@ -15,5 +15,6 @@ public class string_builder {
         System.out.println(str_sb);
         /* end index ta exclusive hoy oita thik aager ta obdi theme jay ekhane 3 theke 4 mane originally 3 to 3 mane
         khali 3rd index (4th character) delete hbe */
+        sc.close();
     }
 }
